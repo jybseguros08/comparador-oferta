@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Propuestas BN",
+  "description": "Compara propuestas de seguro de automóvil en minutos para BN Corredora de Seguros. La IA prepara, el asesor decide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
